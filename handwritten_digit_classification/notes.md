@@ -1,0 +1,1 @@
+A Sequential model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor.

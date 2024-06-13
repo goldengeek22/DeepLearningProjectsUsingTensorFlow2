@@ -1,0 +1,11 @@
+product,profession,salary,married,genre,vehicle,own_house,children,age
+A, "Informaticien", 500000, "true", "M", "Car", "false", 1, 31
+B, "Professeur", 60000, "false", "M", "Moto", "false", 2, 30
+B, "Coiffeuse", 50000, "false", "F", "None", "false", 1, 27
+B, "Coiffeur", 75000, "false", "M", "Moto", "false", 0, 28
+A, "Expert Comptable", 300000, "true", "M", "Car", "false", 2, 35
+A, "Directeur Administratif", 800000, "true", "M", "Car", "true", 3, 45
+B, "Journaliste", 150000, "false", "F", "Moto", "false", 1, 33
+B, "Directrice technique", 450000, "false", "F", "Car", "false", 0, 29
+B, "Génie Électrique", 250000, "false", "M", "Moto", "false", 2, 28
+A, "Directeur Exécutif", 1500000, "true", "M", "Moto", "true", 4, 50
