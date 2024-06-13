@@ -5,8 +5,7 @@ import tensorflow as tf
 data = tf.keras.datasets.mnist
 # Split the data
 (x_train, y_train), (x_test, y_test) = data.load_data()
-
-# The MNIST data contains two-dimensional images. Flatten thm into one-dimensional images for convenience
+# The MNIST data contains two-dimensional images. Flatten them into one-dimensional images for convenience
 x_train, x_test = x_train/255.0, x_test/255.0
 
 number_of_units = 10  # The hidden layer contains 10 neurons
